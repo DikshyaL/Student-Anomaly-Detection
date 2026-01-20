@@ -119,6 +119,6 @@ Different models identified different subsets of anomalous students, highlightin
 ---
 
 ## Author
-Dikshya  
+Dikshya Lamichhane
 Computer Science and Engineering  
-Interests: Algorithms, Data Science, Artificial Intelligence
+
